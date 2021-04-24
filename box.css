@@ -1,0 +1,27 @@
+.container {
+  width: 50rem;
+  height: 40rem;
+  background: #9ed6ff;
+  box-sizing: border-box;
+  margin: 5rem;
+  padding: 5rem;
+  border: 3rem solid #4db4ff;
+}
+
+body {
+  background-color: white;
+  font-weight: bold;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+p {
+  background-color: azure;
+  padding: 1rem;
+  height: 20rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 2rem;
+}

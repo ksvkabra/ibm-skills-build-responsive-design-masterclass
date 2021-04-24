@@ -1,0 +1,28 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  color: white;
+  font-weight: bold;
+}
+
+.box {
+  width: 70%;
+  font-size: 20px;
+  background-color: #008aff;
+  /* Tip: Never use % with margin or padding, until you are 100% sure */
+  padding: 1rem;
+}
+
+.item__1 {
+  font-size: 2rem;
+}
+
+.item__2 {
+  font-size: 2em;
+}
